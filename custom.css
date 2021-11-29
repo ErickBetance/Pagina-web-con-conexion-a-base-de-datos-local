@@ -1,0 +1,64 @@
+.titulo{
+    color:lightblue;
+    display: inline-flex;
+    font-size: 3vw;
+    margin-right: 0.8vw;
+}
+.titulo2{
+    color: darkblue;
+    display: inline-flex;
+    font-size: 3vw;
+    margin-left: 0.8vw;
+}
+.subtitulo{
+    color: cornsilk;
+    font-size: 1.2vw;
+    margin-bottom: 0.1vw;
+}
+#inicio{
+    background-color: royalblue; 
+    width: 100vw;
+}
+.imagen{
+    display: inline-flex;
+    width: 4vw;
+    height: 4vw;
+    margin-bottom: 1.8vw;
+    margin-right: 0.8vw;
+}
+.fondo{
+    background-color:navy;
+}
+#fondo2{
+    background-color: lightgoldenrodyellow;
+    width: 90vw;
+}
+#barra{
+    background-color: orangered;
+    color: ivory;
+    font-size: 1.2vw;
+}
+.sub{
+color: rgb(68, 82, 95);
+font-size: 1.5vw;
+font-weight: bold;
+float: left;
+}
+.img2{
+    display: inline-flex;
+    width: 2vw;
+    height: 2vw;
+}
+#bot{
+    width: 6vw;
+    font-size: 1vw;
+}
+.col-4{
+    text-align: left;
+    font-size: 1.5vw;
+    color: dimgray;
+}
+#boton{
+    width: 8vw;
+    font-size: 1vw;
+}
